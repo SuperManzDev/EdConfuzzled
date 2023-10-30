@@ -1,3 +1,18 @@
+# How to run 
+Hiya peeps, 
+- so copy  , [script.js](https://raw.githubusercontent.com/SuperManzDev/EdConfuzzled/main/script.js). 
+- Open up INSPECT -> CONSOLE 
+-  Paste it (It will open a new tab with edpuzzle in full screen)
+-  hit ok or yes 
+-  Do step 2 again
+-  it will open the prompt hit **Answer Questions**
+-  go back to the canavas page and hit reload
+-  then it will say submit
+-  PROFIT
+-  **·.¸¸.-> °º   🎀  𝐻𝒶𝓋𝑒 𝒻𝓊𝓃 𝓂𝓎 𝓅𝓇𝑒𝓉𝓉𝒾𝑒𝓈  🎀   º° >-.¸¸.·**
+
+
+
 # Edpuzzle Answers Script
 ![jsdelivr monthly badge](https://data.jsdelivr.com/v1/package/gh/ading2210/edpuzzle-answers/badge/month)
 ![jsdelivr weekly badge](https://data.jsdelivr.com/v1/package/gh/ading2210/edpuzzle-answers/badge/week)
