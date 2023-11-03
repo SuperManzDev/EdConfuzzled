@@ -1,6 +1,7 @@
 # How to run 
 Hiya peeps, 
 - so copy  , [script.js](https://raw.githubusercontent.com/SuperManzDev/EdConfuzzled/main/script.js). 
+MAKE SURE UR IN GUEST MODE
 - Open up INSPECT -> CONSOLE 
 -  Paste it (It will open a new tab with edpuzzle in full screen)
 -  hit ok or yes 
