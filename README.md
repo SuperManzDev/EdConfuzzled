@@ -3,6 +3,7 @@ Hiya peeps,
 - so copy  , [script.js](https://raw.githubusercontent.com/SuperManzDev/EdConfuzzled/main/script.js). 
 MAKE SURE UR IN GUEST MODE
 - Open up INSPECT -> CONSOLE 
+- IT WILL SAY BLAH BLAH BALH IS INSECURE TYPE IN ALLOW PASTING (YOU MIGHT HAVE TO DO THIS TWICE **********READ THIS*******
 -  Paste it (It will open a new tab with edpuzzle in full screen)
 -  hit ok or yes 
 -  Do step 2 again
